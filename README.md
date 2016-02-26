@@ -1,5 +1,5 @@
 # owlDisabledArrows
-Add a disabled class [owlCarousel](https://github.com/smashingboxes/OwlCarousel2)'s non-clickable arrows
+Add a disabled class on [owlCarousel](https://github.com/smashingboxes/OwlCarousel2)'s arrows, when we can't go to next or go to previous slide.
 
 ## Usage
 ``` javascript
