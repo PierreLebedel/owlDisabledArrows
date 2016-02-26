@@ -3,7 +3,7 @@
  *  Add a disabled class owlCarousel's non-clickable arrows
  *  
  *  owlCarousel : http://owlcarousel.owlgraphic.com/
- *  owlDisabledArrows : http://
+ *  owlDisabledArrows : https://github.com/PierreLebedel/owlDisabledArrows
  *
  *  Made by Pierre Lebedel
  *  Under MIT License
