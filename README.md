@@ -1,5 +1,5 @@
 # owlDisabledArrows
-Add a disabled class owlCarousel's non-clickable arrows
+Add a disabled class [owlCarousel](https://github.com/smashingboxes/OwlCarousel2)'s non-clickable arrows
 
 ## Usage
 ``` javascript
@@ -14,5 +14,4 @@ $carousel.owlCarousel({
 });
 ```
 
-According to the Owl's documentation, the `initialized.owl.carousel` event must be attached before Owl Carousel initialization, so the call to owlDisabledArrows too :
-http://owlcarousel.owlgraphic.com/demos/events.html
+The [Owl's documentation](http://owlcarousel.owlgraphic.com/demos/events.html) says the `initialized.owl.carousel` event must be attached before Owl Carousel initialization, so the call to owlDisabledArrows too.
